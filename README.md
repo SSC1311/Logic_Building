@@ -71,11 +71,11 @@ LB/
 | Area | Status |
 |---|---|
 | Basics, input and output, functions | ✅ Practised |
-| Iteration, numbers and digits | ✅ Practised |
-| Pattern printing | ✅ Practised |
-| Strings | ✅ Practised |
-| Generic programming with C++ templates | ✅ Practised |
-| Number systems and bitwise operators | 🔄 In progress |
+| Iteration, numbers and digits | ⏳ Next |
+| Pattern printing | ⏳ Next |
+| Strings | ⏳ Next |
+| Generic programming with C++ templates | ⏳ Next |
+| Number systems and bitwise operators | ⏳ Next |
 | Arrays, matrices and dynamic memory | ⏳ Next |
 | Recursion, searching and sorting | ⏳ Next |
 | Object-oriented design and the Java collections framework | ⏳ Next |
