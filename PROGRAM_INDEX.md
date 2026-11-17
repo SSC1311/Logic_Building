@@ -15,3 +15,11 @@ Files keep the number they had in class, so the order of the programme stays vis
 | 006 | [006_addition_of_two_numbers_v1.c](./01_Basics_and_Input_Output/006_addition_of_two_numbers_v1.c) | C | Addition of two numbers, successive approaches (version 1 of 4) |  |
 | 007 | [007_addition_of_two_numbers_v2.c](./01_Basics_and_Input_Output/007_addition_of_two_numbers_v2.c) | C | Addition of two numbers, successive approaches (version 2 of 4) |  |
 | 008 | [008_addition_of_two_numbers_v3.c](./01_Basics_and_Input_Output/008_addition_of_two_numbers_v3.c) | C | Addition of two numbers, successive approaches (version 3 of 4) |  |
+| 009 | [009_addition_of_two_numbers_v4.c](./01_Basics_and_Input_Output/009_addition_of_two_numbers_v4.c) | C | Addition of two numbers, successive approaches (version 4 of 4) |  |
+| 010 | [010_scanf_return_value.c](./01_Basics_and_Input_Output/010_scanf_return_value.c) | C | What scanf returns |  |
+| 011 | [011_input_validation_scanf_v1.c](./01_Basics_and_Input_Output/011_input_validation_scanf_v1.c) | C | Validating input using the scanf return value (version 1 of 2) |  |
+| 012 | [012_input_validation_scanf_v2.c](./01_Basics_and_Input_Output/012_input_validation_scanf_v2.c) | C | Validating input using the scanf return value (version 2 of 2) |  |
+| 013 | [013_addition_using_function_v1.c](./01_Basics_and_Input_Output/013_addition_using_function_v1.c) | C | Addition using a function (14 to 16 use Header.h) (version 1 of 3) |  |
+| 014 | [014_addition_using_function_v2.c](./01_Basics_and_Input_Output/014_addition_using_function_v2.c) | C | Addition using a function (14 to 16 use Header.h) (version 2 of 3) |  |
+| 015 | [015_addition_using_function_v3.c](./01_Basics_and_Input_Output/015_addition_using_function_v3.c) | C | Addition using a function (14 to 16 use Header.h) (version 3 of 3) |  |
+| 016 | [016_check_even_or_odd_v1.c](./01_Basics_and_Input_Output/016_check_even_or_odd_v1.c) | C | Check whether a number is even or odd (version 1 of 4) |  |
