@@ -23,3 +23,11 @@ Files keep the number they had in class, so the order of the programme stays vis
 | 014 | [014_addition_using_function_v2.c](./01_Basics_and_Input_Output/014_addition_using_function_v2.c) | C | Addition using a function (14 to 16 use Header.h) (version 2 of 3) |  |
 | 015 | [015_addition_using_function_v3.c](./01_Basics_and_Input_Output/015_addition_using_function_v3.c) | C | Addition using a function (14 to 16 use Header.h) (version 3 of 3) |  |
 | 016 | [016_check_even_or_odd_v1.c](./01_Basics_and_Input_Output/016_check_even_or_odd_v1.c) | C | Check whether a number is even or odd (version 1 of 4) |  |
+| 017 | [017_check_even_or_odd_v2.c](./01_Basics_and_Input_Output/017_check_even_or_odd_v2.c) | C | Check whether a number is even or odd (version 2 of 4) |  |
+| 018 | [018_check_even_or_odd_v3.c](./01_Basics_and_Input_Output/018_check_even_or_odd_v3.c) | C | Check whether a number is even or odd (version 3 of 4) |  |
+| 019 | [019_check_even_or_odd_v4.c](./01_Basics_and_Input_Output/019_check_even_or_odd_v4.c) | C | Check whether a number is even or odd (version 4 of 4) |  |
+| 020 | [020_hello_world_java.java](./01_Basics_and_Input_Output/020_hello_world_java.java) | Java | First Java program |  |
+| 021 | [021_accept_name_java_v1.java](./01_Basics_and_Input_Output/021_accept_name_java_v1.java) | Java | Accepting and greeting a name in Java (version 1 of 4) |  |
+| 022 | [022_accept_name_java_v2.java](./01_Basics_and_Input_Output/022_accept_name_java_v2.java) | Java | Accepting and greeting a name in Java (version 2 of 4) |  |
+| 023 | [023_accept_name_java_v3.java](./01_Basics_and_Input_Output/023_accept_name_java_v3.java) | Java | Accepting and greeting a name in Java (version 3 of 4) |  |
+| 024 | [024_accept_name_java_v4.java](./01_Basics_and_Input_Output/024_accept_name_java_v4.java) | Java | Accepting and greeting a name in Java (version 4 of 4) |  |
