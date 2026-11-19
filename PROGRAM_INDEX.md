@@ -31,3 +31,11 @@ Files keep the number they had in class, so the order of the programme stays vis
 | 022 | [022_accept_name_java_v2.java](./01_Basics_and_Input_Output/022_accept_name_java_v2.java) | Java | Accepting and greeting a name in Java (version 2 of 4) |  |
 | 023 | [023_accept_name_java_v3.java](./01_Basics_and_Input_Output/023_accept_name_java_v3.java) | Java | Accepting and greeting a name in Java (version 3 of 4) |  |
 | 024 | [024_accept_name_java_v4.java](./01_Basics_and_Input_Output/024_accept_name_java_v4.java) | Java | Accepting and greeting a name in Java (version 4 of 4) |  |
+| 025 | [025_accept_name_c_v1.c](./01_Basics_and_Input_Output/025_accept_name_c_v1.c) | C | Accepting and greeting a name in C (version 1 of 2) |  |
+| 026 | [026_accept_name_c_v2.c](./01_Basics_and_Input_Output/026_accept_name_c_v2.c) | C | Accepting and greeting a name in C (version 2 of 2) |  |
+| 027 | [027_accept_name_and_age_java_v1.java](./01_Basics_and_Input_Output/027_accept_name_and_age_java_v1.java) | Java | Accepting name and age in Java (version 1 of 3) | Deliberate error: float assigned 0.0; the comment shows the fix (0.0f) |
+| 028 | [028_accept_name_and_age_java_v2.java](./01_Basics_and_Input_Output/028_accept_name_and_age_java_v2.java) | Java | Accepting name and age in Java (version 2 of 3) |  |
+| 029 | [029_accept_name_and_age_java_v3.java](./01_Basics_and_Input_Output/029_accept_name_and_age_java_v3.java) | Java | Accepting name and age in Java (version 3 of 3) |  |
+| 030 | [030_accept_name_and_age_c_v1.c](./01_Basics_and_Input_Output/030_accept_name_and_age_c_v1.c) | C | Accepting name and age in C (version 1 of 3) |  |
+| 031 | [031_accept_name_and_age_c_v2.c](./01_Basics_and_Input_Output/031_accept_name_and_age_c_v2.c) | C | Accepting name and age in C (version 2 of 3) |  |
+| 032 | [032_accept_name_and_age_c_v3.c](./01_Basics_and_Input_Output/032_accept_name_and_age_c_v3.c) | C | Accepting name and age in C (version 3 of 3) |  |
