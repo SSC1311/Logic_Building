@@ -39,3 +39,16 @@ Files keep the number they had in class, so the order of the programme stays vis
 | 030 | [030_accept_name_and_age_c_v1.c](./01_Basics_and_Input_Output/030_accept_name_and_age_c_v1.c) | C | Accepting name and age in C (version 1 of 3) |  |
 | 031 | [031_accept_name_and_age_c_v2.c](./01_Basics_and_Input_Output/031_accept_name_and_age_c_v2.c) | C | Accepting name and age in C (version 2 of 3) |  |
 | 032 | [032_accept_name_and_age_c_v3.c](./01_Basics_and_Input_Output/032_accept_name_and_age_c_v3.c) | C | Accepting name and age in C (version 3 of 3) |  |
+
+## 02 Selection and Functions
+
+| # | File | Language | Idea | Note |
+|---|---|---|---|---|
+| 040 | [040_accept_two_numbers_for_comparison.c](./02_Selection_and_Functions/040_accept_two_numbers_for_comparison.c) | C | Accepting two numbers as input |  |
+| 041 | [041_maximum_of_two_numbers_v1.c](./02_Selection_and_Functions/041_maximum_of_two_numbers_v1.c) | C | Maximum of two numbers (version 1 of 2) |  |
+| 042 | [042_maximum_of_two_numbers_v2.c](./02_Selection_and_Functions/042_maximum_of_two_numbers_v2.c) | C | Maximum of two numbers (version 2 of 2) |  |
+| 043 | [043_minimum_of_two_numbers.c](./02_Selection_and_Functions/043_minimum_of_two_numbers.c) | C | Minimum of two numbers |  |
+| 044 | [044_average_of_two_numbers.c](./02_Selection_and_Functions/044_average_of_two_numbers.c) | C | Average of two numbers |  |
+| 045 | [045_average_with_typecasting_v1.c](./02_Selection_and_Functions/045_average_with_typecasting_v1.c) | C | Average of two numbers using typecasting (version 1 of 2) |  |
+| 046 | [046_average_with_typecasting_v2.c](./02_Selection_and_Functions/046_average_with_typecasting_v2.c) | C | Average of two numbers using typecasting (version 2 of 2) |  |
+| 047 | [047_maximum_of_two_numbers_refined_v1.c](./02_Selection_and_Functions/047_maximum_of_two_numbers_refined_v1.c) | C | Maximum of two numbers, refined (version 1 of 2) |  |
