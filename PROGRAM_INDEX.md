@@ -52,3 +52,11 @@ Files keep the number they had in class, so the order of the programme stays vis
 | 045 | [045_average_with_typecasting_v1.c](./02_Selection_and_Functions/045_average_with_typecasting_v1.c) | C | Average of two numbers using typecasting (version 1 of 2) |  |
 | 046 | [046_average_with_typecasting_v2.c](./02_Selection_and_Functions/046_average_with_typecasting_v2.c) | C | Average of two numbers using typecasting (version 2 of 2) |  |
 | 047 | [047_maximum_of_two_numbers_refined_v1.c](./02_Selection_and_Functions/047_maximum_of_two_numbers_refined_v1.c) | C | Maximum of two numbers, refined (version 1 of 2) |  |
+| 048 | [048_maximum_of_two_numbers_refined_v2.c](./02_Selection_and_Functions/048_maximum_of_two_numbers_refined_v2.c) | C | Maximum of two numbers, refined (version 2 of 2) |  |
+| 049 | [049_minimum_of_two_numbers_refined_v1.c](./02_Selection_and_Functions/049_minimum_of_two_numbers_refined_v1.c) | C | Minimum of two numbers, refined (version 1 of 2) |  |
+| 050 | [050_minimum_of_two_numbers_refined_v2.c](./02_Selection_and_Functions/050_minimum_of_two_numbers_refined_v2.c) | C | Minimum of two numbers, refined (version 2 of 2) |  |
+| 051 | [051_display_message_java_v1.java](./02_Selection_and_Functions/051_display_message_java_v1.java) | Java | Displaying a message using methods (Java) (version 1 of 6) |  |
+| 052 | [052_display_message_java_v2.java](./02_Selection_and_Functions/052_display_message_java_v2.java) | Java | Displaying a message using methods (Java) (version 2 of 6) |  |
+| 053 | [053_display_message_java_v3.java](./02_Selection_and_Functions/053_display_message_java_v3.java) | Java | Displaying a message using methods (Java) (version 3 of 6) |  |
+| 054 | [054_display_message_java_v4.java](./02_Selection_and_Functions/054_display_message_java_v4.java) | Java | Displaying a message using methods (Java) (version 4 of 6) |  |
+| 055 | [055_display_message_java_v5.java](./02_Selection_and_Functions/055_display_message_java_v5.java) | Java | Displaying a message using methods (Java) (version 5 of 6) |  |
