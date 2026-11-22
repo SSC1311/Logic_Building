@@ -60,3 +60,11 @@ Files keep the number they had in class, so the order of the programme stays vis
 | 053 | [053_display_message_java_v3.java](./02_Selection_and_Functions/053_display_message_java_v3.java) | Java | Displaying a message using methods (Java) (version 3 of 6) |  |
 | 054 | [054_display_message_java_v4.java](./02_Selection_and_Functions/054_display_message_java_v4.java) | Java | Displaying a message using methods (Java) (version 4 of 6) |  |
 | 055 | [055_display_message_java_v5.java](./02_Selection_and_Functions/055_display_message_java_v5.java) | Java | Displaying a message using methods (Java) (version 5 of 6) |  |
+| 056 | [056_display_message_java_v6.java](./02_Selection_and_Functions/056_display_message_java_v6.java) | Java | Displaying a message using methods (Java) (version 6 of 6) |  |
+| 057 | [057_display_message_n_times_java.java](./02_Selection_and_Functions/057_display_message_n_times_java.java) | Java | Displaying a message a given number of times (Java) |  |
+| 058 | [058_input_filter_java.java](./02_Selection_and_Functions/058_input_filter_java.java) | Java | Input filter: rejecting an invalid frequency (Java) |  |
+| 059 | [059_input_updater_java.java](./02_Selection_and_Functions/059_input_updater_java.java) | Java | Input updater: correcting an invalid frequency (Java) |  |
+| 060 | [060_display_with_separator_java_v1.java](./02_Selection_and_Functions/060_display_with_separator_java_v1.java) | Java | Repeated display with a separator line (Java) (version 1 of 8) |  |
+| 061 | [061_display_with_separator_java_v2.java](./02_Selection_and_Functions/061_display_with_separator_java_v2.java) | Java | Repeated display with a separator line (Java) (version 2 of 8) |  |
+| 062 | [062_display_with_separator_java_v3.java](./02_Selection_and_Functions/062_display_with_separator_java_v3.java) | Java | Repeated display with a separator line (Java) (version 3 of 8) |  |
+| 063 | [063_display_with_separator_java_v4.java](./02_Selection_and_Functions/063_display_with_separator_java_v4.java) | Java | Repeated display with a separator line (Java) (version 4 of 8) |  |
