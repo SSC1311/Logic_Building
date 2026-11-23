@@ -68,3 +68,11 @@ Files keep the number they had in class, so the order of the programme stays vis
 | 061 | [061_display_with_separator_java_v2.java](./02_Selection_and_Functions/061_display_with_separator_java_v2.java) | Java | Repeated display with a separator line (Java) (version 2 of 8) |  |
 | 062 | [062_display_with_separator_java_v3.java](./02_Selection_and_Functions/062_display_with_separator_java_v3.java) | Java | Repeated display with a separator line (Java) (version 3 of 8) |  |
 | 063 | [063_display_with_separator_java_v4.java](./02_Selection_and_Functions/063_display_with_separator_java_v4.java) | Java | Repeated display with a separator line (Java) (version 4 of 8) |  |
+| 064 | [064_display_with_separator_java_v5.java](./02_Selection_and_Functions/064_display_with_separator_java_v5.java) | Java | Repeated display with a separator line (Java) (version 5 of 8) |  |
+| 065 | [065_display_with_separator_java_v6.java](./02_Selection_and_Functions/065_display_with_separator_java_v6.java) | Java | Repeated display with a separator line (Java) (version 6 of 8) |  |
+| 066 | [066_display_with_separator_java_v7.java](./02_Selection_and_Functions/066_display_with_separator_java_v7.java) | Java | Repeated display with a separator line (Java) (version 7 of 8) |  |
+| 067 | [067_display_with_separator_java_v8.java](./02_Selection_and_Functions/067_display_with_separator_java_v8.java) | Java | Repeated display with a separator line (Java) (version 8 of 8) |  |
+| 068 | [068_display_message_c_v1.c](./02_Selection_and_Functions/068_display_message_c_v1.c) | C | Displaying a message using a function (C) (version 1 of 2) |  |
+| 069 | [069_display_message_c_v2.c](./02_Selection_and_Functions/069_display_message_c_v2.c) | C | Displaying a message using a function (C) (version 2 of 2) |  |
+| 070 | [070_display_message_n_times_c.c](./02_Selection_and_Functions/070_display_message_n_times_c.c) | C | Displaying a message a given number of times (C) |  |
+| 071 | [071_print_1_to_n_v1.c](./02_Selection_and_Functions/071_print_1_to_n_v1.c) | C | Print 1 to N (version 1 of 2) |  |
