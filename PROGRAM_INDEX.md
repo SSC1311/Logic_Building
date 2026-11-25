@@ -76,3 +76,10 @@ Files keep the number they had in class, so the order of the programme stays vis
 | 069 | [069_display_message_c_v2.c](./02_Selection_and_Functions/069_display_message_c_v2.c) | C | Displaying a message using a function (C) (version 2 of 2) |  |
 | 070 | [070_display_message_n_times_c.c](./02_Selection_and_Functions/070_display_message_n_times_c.c) | C | Displaying a message a given number of times (C) |  |
 | 071 | [071_print_1_to_n_v1.c](./02_Selection_and_Functions/071_print_1_to_n_v1.c) | C | Print 1 to N (version 1 of 2) |  |
+| 072 | [072_print_1_to_n_v2.c](./02_Selection_and_Functions/072_print_1_to_n_v2.c) | C | Print 1 to N (version 2 of 2) |  |
+| 073 | [073_print_numbers_with_stars_v1.c](./02_Selection_and_Functions/073_print_numbers_with_stars_v1.c) | C | Print numbers separated by stars (version 1 of 2) |  |
+| 074 | [074_print_numbers_with_stars_v2.c](./02_Selection_and_Functions/074_print_numbers_with_stars_v2.c) | C | Print numbers separated by stars (version 2 of 2) |  |
+| 075 | [075_print_n_to_1.c](./02_Selection_and_Functions/075_print_n_to_1.c) | C | Print N down to 1 |  |
+| 076 | [076_print_odd_numbers_v1.c](./02_Selection_and_Functions/076_print_odd_numbers_v1.c) | C | Print odd numbers up to N (version 1 of 3) |  |
+| 077 | [077_print_odd_numbers_v2.c](./02_Selection_and_Functions/077_print_odd_numbers_v2.c) | C | Print odd numbers up to N (version 2 of 3) |  |
+| 078 | [078_print_odd_numbers_v3.c](./02_Selection_and_Functions/078_print_odd_numbers_v3.c) | C | Print odd numbers up to N (version 3 of 3) |  |
