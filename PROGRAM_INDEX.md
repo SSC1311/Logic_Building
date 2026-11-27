@@ -83,3 +83,16 @@ Files keep the number they had in class, so the order of the programme stays vis
 | 076 | [076_print_odd_numbers_v1.c](./02_Selection_and_Functions/076_print_odd_numbers_v1.c) | C | Print odd numbers up to N (version 1 of 3) |  |
 | 077 | [077_print_odd_numbers_v2.c](./02_Selection_and_Functions/077_print_odd_numbers_v2.c) | C | Print odd numbers up to N (version 2 of 3) |  |
 | 078 | [078_print_odd_numbers_v3.c](./02_Selection_and_Functions/078_print_odd_numbers_v3.c) | C | Print odd numbers up to N (version 3 of 3) |  |
+
+## 03 Iteration and Numbers
+
+| # | File | Language | Idea | Note |
+|---|---|---|---|---|
+| 079 | [079_sum_of_first_n_numbers_idea.c](./03_Iteration_and_Numbers/079_sum_of_first_n_numbers_idea.c) | C | Idea: sum of the first N numbers |  |
+| 080 | [080_summation_of_n_numbers_v1.c](./03_Iteration_and_Numbers/080_summation_of_n_numbers_v1.c) | C | Sum of the first N numbers (version 1 of 3) |  |
+| 081 | [081_summation_of_n_numbers_v2.c](./03_Iteration_and_Numbers/081_summation_of_n_numbers_v2.c) | C | Sum of the first N numbers (version 2 of 3) |  |
+| 082 | [082_summation_of_n_numbers_v3.c](./03_Iteration_and_Numbers/082_summation_of_n_numbers_v3.c) | C | Sum of the first N numbers (version 3 of 3) |  |
+| 083 | [083_check_divisibility_v1.c](./03_Iteration_and_Numbers/083_check_divisibility_v1.c) | C | Check whether a number is divisible (version 1 of 5) |  |
+| 084 | [084_check_divisibility_v2.c](./03_Iteration_and_Numbers/084_check_divisibility_v2.c) | C | Check whether a number is divisible (version 2 of 5) |  |
+| 085 | [085_check_divisibility_v3.c](./03_Iteration_and_Numbers/085_check_divisibility_v3.c) | C | Check whether a number is divisible (version 3 of 5) |  |
+| 086 | [086_check_divisibility_v4.c](./03_Iteration_and_Numbers/086_check_divisibility_v4.c) | C | Check whether a number is divisible (version 4 of 5) |  |
